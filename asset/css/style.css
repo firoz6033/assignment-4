@@ -1,0 +1,362 @@
+*{
+    margin: 0px;
+}
+body{
+
+}
+.contaner{
+
+}
+header{ width: 100%;
+    float: left;
+    background-color: #87509d;
+    padding: 25px 0px;
+
+}
+.logo{width: 40%;
+    float: left;
+
+}
+.logo img{     padding-left: 20%;
+
+}
+.menu{ width: 60%;
+    float: left;
+
+}
+nav ul{ list-style: none;
+
+}
+nav ul li{    display: inline-block;
+    margin: 10px 20px;
+}
+    
+
+nav ul li a{ text-decoration: none;
+    color: aliceblue;
+    font-size: 20px;
+    transition: 0.4s ease-in-out;
+}
+nav ul li a:hover{ background-color: orange;
+    padding: 5px 10px;
+    box-shadow: 2px 3px 4px #ffc107;
+}
+.banner{ width: 60%;
+    margin: 0 auto;
+    padding: 100px 50px;
+    text-align: center;
+    
+  
+}
+ .banner h2{
+     color: lightcyan;
+     margin:29px 0px;
+     font-size: 25px;
+     line-height: 32px;
+
+}
+.btn-one{background: rgb(241, 179, 7);
+  padding:12px 20px;
+  border: none;
+  color: aliceblue;
+  font-size: 20px;
+  box-shadow: 0px 5px 4px orange;
+  
+}
+.service{    width: 100%;
+    float: left;
+    padding: 25px 0px;
+    background-color: #17c2aa;
+}
+
+.service-title{    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+}
+.service-title h2{
+    
+}
+.service-title span{   
+     border: 1px solid black;
+    display: block;
+    width: 15%;
+    margin: 10px auto;
+}
+.service-one{
+    width: 22%;
+    float: left;
+    text-align:center;
+  padding: 20px;
+
+}
+    
+
+.service-title p{
+    
+}
+.service-two{
+    width: 22%;
+    float: left;
+    text-align:center;
+  padding: 20px;
+
+}
+.service-three{
+    width: 22%;
+    float: left;
+    text-align:center;
+  padding: 20px;
+
+}
+.service-four{
+    width: 22%;
+    float: left;
+    text-align:center;
+  padding: 20px;
+
+}
+.team{   width: 100%;
+    float: left;
+    padding: 25px 0px;
+    background-color: #c3c4c4;
+}
+
+.team-title{
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 20px;
+}
+.team-title span{
+    border: 1px solid black;
+    display: block;
+    width: 15%;
+    margin: 10px auto;
+}
+.team-one{width: 22%;
+    float: left;
+    text-align:center;
+  padding: 20px;
+
+
+}
+.team img{
+    width: 100%;
+    display: block;
+}
+.team-two{width: 22%;
+    float: left;
+    text-align:center;
+  padding: 20px;
+
+
+}
+
+.team-three{width: 22%;
+    float: left;
+    text-align:center;
+  padding: 20px;
+
+
+}
+
+.team-four{width: 22%;
+    float: left;
+    text-align:center;
+  padding: 20px;
+
+
+}
+.team ul{
+    list-style: none;
+}
+.team ul li {
+    display: inline-block;
+    margin: 10px 20px;
+}
+.team i{
+    font-size:30px ;
+}
+.skill{width: 100%;
+    float: left;
+
+}
+.skill-title{ width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 20px;
+
+}
+.skill-title span{
+    border: 1px solid black;
+    display: block;
+    width: 15%;
+    margin: 10px auto;}
+
+    .skill-one{
+        width: 22%;
+        float: left;
+        text-align: center;
+        margin-top: 2%;
+    }
+    .skill-two{
+        width: 22%;
+        float: left;
+        text-align: center;
+        margin-top: 2%;
+
+    }
+    .skill-three{
+        width: 22%;
+        float: left;
+        text-align: center;
+        margin-top: 2%;
+
+    }
+    .skill-four{
+        width: 22%;
+        float: left;
+        text-align: center;
+        margin-top: 2%;
+
+    }
+    .portfolio{
+        width:100%;
+        float: left;
+        background-color: rgb(240, 191, 101);
+       
+
+    }
+    .portfolio-titlle{width: 60%;
+        margin: 0 auto;
+        text-align: center;
+        margin-top: 20px;
+
+    }
+    .portfolio-titlle span{
+        border: 1px solid black;
+        display: block;
+        width: 15%;
+        margin: 10px auto;
+    }
+    .portfolio ul{
+        list-style: none;
+    }
+    .portfolio ul li{ display: inline-block;
+        margin: 10px 20px;
+
+    }
+    .portfolio ul li a{
+        margin-top: 5px;
+        text-decoration: none;
+        font-size:20px;
+        background-color: rgb(181, 174, 163);
+        color: white;
+        transition: 0.4s ease-in-out;
+    }
+    .portfolio ul li a:hover{background-color: orange;
+        padding: 5px 10px;
+        box-shadow: 2px 3px 4px #ffc107;
+        font
+    }
+    .portfolio-one{
+        width: 50%;
+        float: left;
+        text-align:center;
+    }
+    .portfolio btn{
+        text-align: center;
+        margin: 0 auto;
+    }
+    .about{
+        width: 100%;
+        float: left;
+        background-color: rgb(233, 33, 93);
+    }
+    .about-title{
+        width: 60%;
+        margin: 0 auto;
+        text-align: center;
+        color: whitesmoke;
+        margin-top: 20px;
+    }
+    .about span{
+        border: 1px solid black;
+        display: block;
+        width: 15%;
+        margin: 10px auto;
+    }
+    .about-one{
+        width: 50%;
+        float: left;
+        text-align: center;
+        color: whitesmoke;
+    }
+    .about  img{
+        width: 20%;
+        display: block;
+    }
+    .about h4{
+        color: yellow;
+    }
+    .contact{
+        width:100%;
+        float: left;
+        background-color: rgb(85, 53, 155);
+        color: whitesmoke;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .contact span{border: 1px solid black;
+        display: block;
+        width: 15%;
+        margin: 10px auto;
+
+    }
+    .contact-box{width: 60%;
+        margin:0 auto;
+
+    }
+    .form-control{
+        width: 45%;
+        float: left;
+        background-color: #0325;
+        margin: 5px;
+        border: 1px solid whitesmoke;
+    }
+        
+    
+    textarea{
+        width: 93%;
+        float: left;
+        height: 125px;
+        background-color: #0325;
+
+    }
+    . btn-one { background-color: rgb(15, 167, 127);
+        margin-top: 20px;
+    }
+    footer{
+        width: 100%;
+        float: left;
+        background-color: rgb(79, 42, 159);
+        height: 80px;
+    }
+    footer ul{list-style-type: none;
+
+    }
+    footer ul li{
+        display:inline-block;
+        margin-top: 20px;
+        
+        
+    }
+    footer ul li a{
+        text-decoration: none;
+        color: ivory;
+        font-size: 20px;
+        padding-left: 95px;
+        
+    }
